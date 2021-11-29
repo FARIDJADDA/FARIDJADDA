@@ -45,5 +45,5 @@
 #### Social
 
 [![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/farid-djadda/)  
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) : Farid.D Luffy#5904
+![Discord](https://img.shields.io/badge/Farid.D%20Luffy%235904-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
