@@ -1,5 +1,5 @@
 <p align="center">
-<h1>👋, I am Farid. Nice to connect!</h2> 
+<h1>👋🏽, I am Farid. Nice to connect!</h2> 
 </p>
 
   A curious IT student and a motivated individual.  
