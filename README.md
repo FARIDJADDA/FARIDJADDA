@@ -42,8 +42,12 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-#### Social
+#### Social 👥
 
 [![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/farid-djadda/)  
 ![Discord](https://img.shields.io/badge/Farid.D%20Luffy%235904-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+### Stats 📈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FARIDJADDA&hide=stars&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
