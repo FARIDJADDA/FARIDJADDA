@@ -1,10 +1,10 @@
 <p align="center">
-<h1>👋, I am Ansh. Nice to connect!</h2> 
+<h1>👋, I am Farid. Nice to connect!</h2> 
 </p>
 
-  A curious IT student and a motivated individual.
-  I have a Bachelor degree from, <b>ESIEE-IT</b> 
-  I am a Javascript especially React developer.
+  A curious IT student and a motivated individual.  
+  I have a Bachelor degree from, <b>ESIEE-IT</b> 🇫🇷 Code School.  
+  I am a Javascript especially React developer.  
 
 ### Languages
 
@@ -44,6 +44,6 @@
 
 #### Social
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [ 👉 Click Here!](https://www.linkedin.com/in/farid-djadda/)  
+[![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/farid-djadda/)  
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) : Farid.D Luffy#5904
 
