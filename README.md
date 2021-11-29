@@ -1,6 +1,10 @@
-# Hi everyone,
+<p align="center">
+<h1>👋, I am Ansh. Nice to connect!</h2> 
+</p>
 
-I am a Javascript especially React developer.
+  A curious IT student and a motivated individual.
+  I have a Bachelor degree from, <b>ESIEE-IT</b> 
+  I am a Javascript especially React developer.
 
 ### Languages
 
