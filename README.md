@@ -1,4 +1,4 @@
-# Hello everyone,
+# Hi everyone,
 
 I am a Javascript especially React developer.
 
