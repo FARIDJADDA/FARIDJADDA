@@ -49,5 +49,7 @@
 
 ### Stats 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FARIDJADDA&hide=stars&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=FARIDJADDA&hide=stars&show_icons=true&theme=blueberry" />
+
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARIDJADDA&layout=compact&theme=blueberry" />
 
