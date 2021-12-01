@@ -3,7 +3,7 @@
 </p>
 
   A curious IT student and a motivated individual.  
-  I have a Bachelor degree from, <b>ESIEE-IT</b> 🇫🇷 Code School.  
+  I have a Bachelor degree from, <b>ESIEE-IT</b> 🇫🇷 Engineering School.  
   I am a Javascript especially React developer.  
 
 ### Languages
