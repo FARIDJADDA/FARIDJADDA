@@ -1,7 +1,7 @@
-Hi 👋 My name is Djadda Farid
+Hi 👋 I'm Djadda Farid
 =============================
 
-Web Developer
+Python Developer / Data analyst
 -------------
 
 A curious IT student and a motivated individual. I have a Bachelor degree from, ESIEE-IT 🇫🇷 Engineering School. I am a Javascript especially React developer.
