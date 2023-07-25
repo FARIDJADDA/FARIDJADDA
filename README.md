@@ -4,7 +4,7 @@ Hi 👋 I'm Djadda Farid
 Python Developer / Data analyst
 -------------
 
-A curious IT student and a motivated individual. I have a Bachelor degree from, ESIEE-IT 🇫🇷 Engineering School. I am a Javascript especially React developer.
+A curious IT student and a motivated individual. I have a Bachelor degree from, ESIEE-IT 🇫🇷 Engineering School. I am a Python developer especially data analyst
 
 * 🌍  I'm based in France
 * 🧠  I'm learning Univers of devops actually Docker, kubernetes... I would like to learn more about data.
