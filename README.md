@@ -7,7 +7,7 @@ Python Developer / Data analyst
 A curious IT student and a motivated individual. I have a Bachelor degree from, ESIEE-IT 🇫🇷 Engineering School. I am a Python developer especially data analyst
 
 * 🌍  I'm based in France
-* 🧠  I'm learning Univers of devops actually Docker, kubernetes... I would like to learn more about data.
+* 🧠  I'm learning Univers of big data actually in Data Science... I would like to learn more about data, AI...
 
 ### Skills
 
