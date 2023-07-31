@@ -1,7 +1,7 @@
 Python Developer / Data analyst
 -------------
-* 🌍  I'm based in France
-* 🧠  I'm learning Univers of big data actually in Data Science...
+* 🌍  Based in France
+* 🧠  Immerse yourself in a captivating world where data development and engineering come together.
 
 ### Badges
 
