@@ -1,6 +1,3 @@
-Hi 👋 I'm Djadda Farid
-=============================
-
 Python Developer / Data analyst
 -------------
 * 🌍  I'm based in France
